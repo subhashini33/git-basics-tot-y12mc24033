@@ -6,3 +6,37 @@ to the python classes
 
 
 
+4
+Can't compare these values: STRING_KIND NUMBER_KIND
+this is appending data to the new file
+4
+this is appending data to the new file
+1
+this is appending data to the new file
+2
+this is appending data to the new file
+3
+this is appending data to the new file
+4
+this is appending data to the new file
+5
+this is appending data to the new file
+3
+this is appending data to the new file
+4
+this is appending data to the new file
+5
+this is appending data to the new file
+4
+this is appending data to the new file
+5
+this is appending data to the new file
+1
+this is appending data to the new file
+2
+this is appending data to the new file
+3
+this is appending data to the new file
+4
+this is appending data to the new file
+5
